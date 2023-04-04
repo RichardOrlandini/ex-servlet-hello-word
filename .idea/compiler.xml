@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ex-servlet-hello-word" />
         <module name="carsoft-1" />
       </profile>
     </annotationProcessing>
